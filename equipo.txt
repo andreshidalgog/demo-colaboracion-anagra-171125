@@ -3,3 +3,4 @@ Escribe dentro del archivo:
  Integrantes:
 - Persona A : ANDRES HIDALGO
 - Persona B : JUAN PABLO HIDALGO
+- Persona c : TU HERMANA
