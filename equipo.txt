@@ -4,3 +4,4 @@ Escribe dentro del archivo:
 - Persona A : ANDRES HIDALGO
 - Persona B : JUAN PABLO HIDALGO
 - Persona c : TU HERMANA
+- Persona D: De de dedo
