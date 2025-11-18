@@ -3,6 +3,4 @@ Escribe dentro del archivo:
  Integrantes:
 - Persona A : ANDRES HIDALGO
 - Persona B : JUAN PABLO HIDALGO
-
-
-esta es una nueva rama
+- Persona c : TU HERMANA
